@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 """
-UTF-8 Validation.
+UTF-8 Validation
 """
 
 
